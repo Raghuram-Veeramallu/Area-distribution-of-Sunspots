@@ -12,9 +12,9 @@ Conda can be installed from this page: https://conda.io/projects/conda/en/latest
 
 2. Create a conda environment
 ```
-conda create --name ast5731_group3_project2 --file requirements.txt
+conda create --name ast5731_group3_project3 --file requirements.txt
 ```
-You can change the name of the environment from `ast5731_group3_project2` to the one you want.
+You can change the name of the environment from `ast5731_group3_project3` to the one you want.
 
 3. Install Jupyter notebook from this page: https://jupyter.org/install  
 
@@ -25,7 +25,7 @@ You can change the name of the environment from `ast5731_group3_project2` to the
 jupyter notebook
 ```
 
-Navigate to the file and run the `Group3_Project2.ipynb`
+Navigate to the file and run the `Group3_Project3.ipynb`
 
 #### Team
 
