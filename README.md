@@ -1,4 +1,4 @@
-# Astro_Stat_Proj3
+# Area distribution of Sunspots
 Astro Statistics Project 3
 
 ### Software setup to run the notebook
