@@ -1,6 +1,10 @@
 # Area distribution of Sunspots
 
-What is the size distribution of sunspots above the lower bound of reliable size measurements?
+![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)  
+
+What is the size distribution of sunspots above the lower bound of reliable size measurements?  
+
+<img src="imgs/hist.png" width=33% height=33%>   <img src="imgs/bestfit.png" width=35% height=35%>   <img src="imgs/ppc.png" width=31% height=31%>  
 
 ### Background  
 
